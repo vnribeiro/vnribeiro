@@ -1,8 +1,9 @@
 ## Hi, my name is Vinícius
  <div>  
- <a href="https://github.com/vnribeiro"></a>
+ <a href="https://github.com/vnribeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vnribeiro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnribeiro&layout=compact&langs_count=7&theme=github_dark"/>
+ </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="VnRibeiro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,3 +27,10 @@
  
 </div>
  
+<!-- PINs
+<div>
+ <a href="https://github.com/vnribeiro">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vnribeiro&repo=vnribeiro&theme=github_dark">
+ </a>
+ </div>
+-->
