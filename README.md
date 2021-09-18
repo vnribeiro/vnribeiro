@@ -26,4 +26,3 @@
  
 </div>
  
-   <a href="https://github-readme-stats.vercel.app/api/pin/?username=vnribeiro&repo=github-readme-stats">
