@@ -1,4 +1,4 @@
-## Olá eu me chamo Vinícius
+## Hi, my name is Vinícius
  <div>
   <a href="https://github.com/vnribeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vnribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
