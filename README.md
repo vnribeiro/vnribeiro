@@ -25,11 +25,3 @@
   ![Snake animation](https://github.com/vnribeiro/vnribeiro/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- 
-<!-- PINs
-<div>
- <a href="https://github.com/vnribeiro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vnribeiro&repo=vnribeiro&theme=github_dark">
- </a>
- </div>
--->
