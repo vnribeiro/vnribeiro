@@ -1,10 +1,8 @@
 ## Hi, I'm Vinícius Ribeiro
- <div>  
- <a href="https://github.com/vnribeiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vnribeiro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnribeiro&layout=compact&langs_count=7&theme=github_dark"/>
-  </a>
-</div>
+
+[![VnRibeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=vnribeiro&show_icons=true&include_all_commits=true&count_private=true&theme=onedark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnribeiro&layout=compact&langs_count=7&theme=onedark)](https://github.com/vnribeiro)
+
 <div style="display: inline_block"><br>
  <a href="https://github.com/vnribeiro">
   <img align="center" alt="VnRibeiro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
