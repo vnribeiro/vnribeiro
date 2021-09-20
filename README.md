@@ -18,7 +18,7 @@
 - 👨‍💻 Atualmente desenvolvendo projetos pessoais.
 - 👨‍🎓 Estudante de Engenharia de software, cursando o 2° semestre.
 - 🎯 Interesse: HTML, CSS, JavaScript, TypeScript, Angular, Python, C#, Azure.
-- 📖 Atualmente eu estou aprimorando meus conhecimento no C#.
+- 📖 Oque eu estou estudando no momento? C#.
 
 ## Skills :nerd_face:
 <p align="center">
