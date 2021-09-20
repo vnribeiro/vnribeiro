@@ -17,7 +17,7 @@
 ## Olá, eu sou o Vinícius! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 - 👨‍💻 Atualmente desenvolvendo projetos pessoais.
 - 👨‍🎓 Estudante de Engenharia de software.
-- 🎯 Interesse: HTML, CSS, JavaScript, TypeScript, Angular, C#, Azure.
+- 🎯 Interesse: HTML, CSS, JavaScript, TypeScript, Angular, SQL, C#, Azure.
 - 📖 Oque eu estou estudando no momento? C#.
 
 ## Skills :nerd_face:
