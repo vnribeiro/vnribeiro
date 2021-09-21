@@ -20,7 +20,7 @@
 - 🎯 Interesse: HTML, CSS, JavaScript, TypeScript, Angular, SQL, C#, Azure.
 - 📖 Oque eu estou estudando no momento? C#.
 
-## Skills :nerd_face:
+## Skills 🐱‍👤
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
