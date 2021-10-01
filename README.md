@@ -17,7 +17,7 @@
 ## Olá, eu sou o Vinícius! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">                                           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                                                                                                   ![visitors](https://komarev.com/ghpvc/?username=vnribeiro&style=flat-square&color=56BCD9&label=Visitors)
 - 👨‍💻 Atualmente desenvolvendo projetos pessoais.
 - 👨‍🎓 Estudante de Engenharia de Software.
-- 🎯 Interesse: HTML, CSS, JavaScript, TypeScript, Angular, C#, PostgreSQL, SQL Server, Azure.
+- 🎯 Interesses: HTML, CSS, JavaScript, TypeScript, Angular, C#, NodeJs, Python, PostgreSQL, SQL Server, Azure.
 - 📖 Oque eu estou estudando no momento? C#.
 
 ## Skills 🐱‍👤
