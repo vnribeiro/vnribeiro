@@ -56,7 +56,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/vnribeirolink" target="_blank">
-     <img title="Linkedin" alt="Linkedin Badge " src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+     <img title="Linkedin" alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
  
  [![Snake animation](https://github.com/vnribeiro/vnribeiro/blob/output/github-contribution-grid-snake.svg)](https://github.com/vnribeiro)
