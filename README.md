@@ -44,15 +44,15 @@
 
 <p align="center">
     <a href="https://www.youtube.com/channel/UCwuK7rMjIBJESZ_Q79oApOw" target="_blank">
-     <img title="Youtube" alt="YouTube Badge" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+     <img title="Youtube" alt="YouTube Badge" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:contato.vnribeiro@gmail.com">
-     <img  title="Gmail" alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+     <img  title="Gmail" alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/vnribeirolink" target="_blank">
-     <img title="Linkedin" alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+     <img title="Linkedin" alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
     </a>
  
  [![Snake animation](https://github.com/vnribeiro/vnribeiro/blob/output/github-contribution-grid-snake.svg)](https://github.com/vnribeiro)
