@@ -40,7 +40,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 </p>
 
- ## Contact :iphone:
+ ## Contacts :iphone:
 
 <p align="center">
     <a href="https://www.youtube.com/channel/UCwuK7rMjIBJESZ_Q79oApOw" target="_blank">
