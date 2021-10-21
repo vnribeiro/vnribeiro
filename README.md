@@ -58,7 +58,7 @@
  
  [![Snake animation](https://github.com/vnribeiro/vnribeiro/blob/output/github-contribution-grid-snake.svg)](https://github.com/vnribeiro)
  
-</p>
+</p >
 
   
  
