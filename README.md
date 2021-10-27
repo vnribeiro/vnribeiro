@@ -2,14 +2,14 @@
   <a href="https://github.com/vnribeiro">
     <img
       align="center"
-      height="165"
+      height="140"
       src="https://github-readme-stats.vercel.app/api?username=vnribeiro&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Status&theme=react"
     />
   </a>
   <a href="https://github.com/vnribeiro">
     <img
       align="center"
-      height="165"
+      height="140"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnribeiro&layout=compact&langs_count=8&theme=react"
     />
   </a>
