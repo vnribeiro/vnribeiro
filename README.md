@@ -37,7 +37,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img title="SQL Server" alt="SQL Server icon" height="40" src="https://cdn.cdnlogo.com/logos/m/21/microsoft-sql-server.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img title="Git" alt="Git icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/ >
+    <img title="Git" alt="Git icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 </p>
 
