@@ -21,7 +21,7 @@
 - 🎯 Interesses: HTML, CSS, JavaScript, TypeScript, Angular, C#, PostgreSQL, SQL Server, AWS.
 - 📖 Oque eu estou estudando no momento? C#.
 
-## Skills 🐱‍👤
+## Skills 👤
 <p align="center">
     <img title="HTML5" alt="HTML5 icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
