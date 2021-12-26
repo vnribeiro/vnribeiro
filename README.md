@@ -21,7 +21,7 @@
 - 🎯 Interesses: HTML, CSS, JavaScript, TypeScript, React, C#, PostgreSQL, SQL Server, Azure.
 - 📖 Oque eu estou estudando no momento? C#.
 
-## Skills <img src="https://www.flaticon.com/free-icon/programmer_6454310?term=people&page=1&position=89&page=1&position=89&related_id=6454310&origin=tag" />
+## Skills <a href="https://www.vecteezy.com/vector-art/2227847-programmer-computer-expert-black-linear-icon"></a>
 <p align="center">
     <img title="HTML5" alt="HTML5 icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
