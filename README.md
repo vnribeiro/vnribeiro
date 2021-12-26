@@ -19,7 +19,7 @@
 - 👨‍💻 Atualmente desenvolvendo projetos pessoais.
 - 👨‍🎓 Estudante de Engenharia de Software.
 - 🎯 Interesses: HTML, CSS, JavaScript, TypeScript, React, C#, PostgreSQL, SQL Server, Azure.
-- 📖 Oque eu estou estudando no momento? C#.
+- 📖 Oque eu estou estudando no momento? C# e Reactjs.
 
 ## Skills <img width="30px" alt="Skills" src="https://img.icons8.com/external-itim2101-blue-itim2101/64/000000/external-skills-business-recruitment-itim2101-blue-itim2101-2.png"/>
 <p align="center">
