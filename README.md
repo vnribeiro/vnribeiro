@@ -21,7 +21,7 @@
 - 🎯 Interesses: HTML, CSS, JavaScript, TypeScript, React, C#, PostgreSQL, SQL Server, Azure.
 - 📖 Oque eu estou estudando no momento? C#.
 
-## Skills <img src="https://img.icons8.com/external-icongeek26-outline-colour-icongeek26/64/000000/external-skills-graphic-design-icongeek26-outline-colour-icongeek26.png"/>
+## Skills <img width="30px" alt="Skills" src="https://img.icons8.com/external-itim2101-blue-itim2101/64/000000/external-skills-business-recruitment-itim2101-blue-itim2101-2.png"/>
 <p align="center">
     <img title="HTML5" alt="HTML5 icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
