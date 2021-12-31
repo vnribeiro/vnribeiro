@@ -18,8 +18,8 @@
 ## Olá, eu sou o Vinícius! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"/>                                           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                                                                                                   ![visitors](https://komarev.com/ghpvc/?username=vnribeiro&style=flat-square&color=56BCD9&label=Visitors)
 - 👨‍💻 Atualmente desenvolvendo projetos pessoais.
 - 👨‍🎓 Estudante de Engenharia de Software.
-- 🎯 Interesses: HTML, CSS, JavaScript, TypeScript, React, C#, PostgreSQL, SQL Server, Azure.
-- 📖 Oque eu estou estudando no momento? C# e Reactjs.
+- 🎯 Interesses: HTML, CSS, JavaScript, TypeScript, Angular, C#, PostgreSQL, SQL Server, Azure.
+- 📖 Oque eu estou estudando no momento? C# e Angular.
 
 ## Skills <img width="30px" alt="Skills" src="https://img.icons8.com/external-itim2101-blue-itim2101/64/000000/external-skills-business-recruitment-itim2101-blue-itim2101-2.png"/>
 <p align="center">
@@ -31,7 +31,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img title="TypeScript" alt="TypeScript icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img title="Angular" alt="Angular icon" height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
+    <img title="Angular" alt="Angular icon" height="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img title="C#" alt="CSharp icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
