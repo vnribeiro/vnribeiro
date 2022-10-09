@@ -23,21 +23,26 @@
 
 ## Skills <img width="30px" alt="Skills" src="https://img.icons8.com/external-itim2101-blue-itim2101/64/000000/external-skills-business-recruitment-itim2101-blue-itim2101-2.png"/>
 <p align="center">
-    <img title="HTML5" alt="HTML5 icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+    <img title="HTML5" alt="HTML5 icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" 
+    href="javascript:void(0)"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img title="CSS3" alt="CSS3 icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+    <img title="CSS3" alt="CSS3 icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" 
+    href="javascript:void(0)"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img title="JavaScript" alt="JavaScript icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+    <img title="JavaScript" alt="JavaScript icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" 
+    href="javascript:void(0)"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img title="TypeScript" alt="TypeScript icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+    <img title="TypeScript" alt="TypeScript icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" 
+    href="javascript:void(0)"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img title="Angular" alt="Angular icon" height="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />
+    <img title="Angular" alt="Angular icon" height="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" href="javascript:void(0)"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img title="C#" alt="CSharp icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+    <img title="C#" alt="CSharp icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  
+    href="javascript:void(0)"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img title="SQL Server" alt="SQL Server icon" height="40" src="https://cdn.cdnlogo.com/logos/m/21/microsoft-sql-server.svg"/>
+    <img title="SQL Server" alt="SQL Server icon" height="40" src="https://cdn.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" href="javascript:void(0)"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img title="Git" alt="Git icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+    <img title="Git" alt="Git icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" href="javascript:void(0)"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 </p>
 
