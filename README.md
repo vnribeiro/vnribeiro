@@ -9,7 +9,7 @@
   <a href="https://github.com/vnribeiro">
     <img
       align="center"
-      height="150"
+      height="145"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnribeiro&layout=compact&langs_count=8&theme=react"
     />
   </a>
