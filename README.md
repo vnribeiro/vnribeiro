@@ -15,7 +15,7 @@
   </a>
 </p>
 
-## Olá, eu sou o Vinícius! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                                                              ![visitors](https://komarev.com/ghpvc/?username=vnribeiro&style=flat-square&color=56BCD9&label=Visitors)
+## Olá, eu sou o Vinícius! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                                                              ![visitors](https://komarev.com/ghpvc/?username=vnribeiro&style=flat-square&color=172F45&label=Visitors)
 - 👨‍💻 Atualmente desenvolvendo projetos pessoais.
 - 👨‍🎓 Estudante de Engenharia de Software.
 - 🎯 Interesses: HTML, CSS, JavaScript, TypeScript, Angular, C#, PostgreSQL, SQL Server, Azure.
