@@ -2,6 +2,7 @@
   <a href="https://github.com/vnribeiro">
     <img
       align="center"
+      with="auto"
       height="150"
       src="https://github-readme-stats.vercel.app/api?username=vnribeiro&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Status&theme=react"
     />
@@ -9,7 +10,8 @@
   <a href="https://github.com/vnribeiro">
     <img
       align="center"
-      height="150"
+      with="auto" 
+      height="150"  
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnribeiro&layout=compact&langs_count=8&theme=react"
     />
   </a>
