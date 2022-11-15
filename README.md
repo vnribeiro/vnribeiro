@@ -46,10 +46,6 @@
  ## Contacts :iphone:
 
 <p align="center">
-    <a href="https://www.youtube.com/channel/UCwuK7rMjIBJESZ_Q79oApOw" target="_blank">
-     <img title="Youtube" alt="YouTube Badge" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:contact.vnribeiro@gmail.com">
      <img  title="Gmail" alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
     </a>
