@@ -6,8 +6,14 @@
       src="https://github-readme-stats.vercel.app/api?username=vnribeiro&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Status&theme=tokyonight"
     />
   </a>
- 
-</p>
+  <a href="https://github.com/vnribeiro">
+    <img
+      align="center"
+      height="200"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnribeiro&layout=donut&langs_count=8&theme=tokyonight"
+    />
+  </a>
+ </p>
 
 ## Olá, eu sou o Vinícius! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                                                              ![visitors](https://komarev.com/ghpvc/?username=vnribeiro&style=flat-square&color=172F45&label=Visitors)
 - 👨‍💻 Atualmente desenvolvendo projetos pessoais.
