@@ -10,12 +10,12 @@
     <img
       align="center"
       height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnribeiro&layout=donut&langs_count=8&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnribeiro&langs_count=8&theme=tokyonight"
     />
   </a>
  </p>
 
-## Olá, eu sou o Vinícius! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                                                              ![visitors](https://komarev.com/ghpvc/?username=vnribeiro&style=flat-square&color=172F45&label=Visitors)
+## Olá, eu sou o Vinícius! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![visitors](https://komarev.com/ghpvc/?username=vnribeiro&style=flat-square&color=172F45&label=Visitors)
 - 👨‍💻 Atualmente desenvolvendo projetos pessoais.
 - 👨‍🎓 Estudante de Engenharia de Software.
 - 🎯 Interesses: HTML, CSS, JavaScript, TypeScript, Angular, C#, PostgreSQL, SQL Server, Azure.
