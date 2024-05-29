@@ -10,7 +10,7 @@
     <img
       align="center"
       height="200"
-      src="https://readme-stats-vincius-ribeiros-projects.vercel.app/api/top-langs/?username=vnribeiro&layout=donut&langs_count=8&theme=tokyonight"
+      src="https://readme-stats-vincius-ribeiros-projects.vercel.app/api/top-langs/?username=vnribeiro&layout=donut&theme=tokyonight"
     />
   </a>
  </p>
