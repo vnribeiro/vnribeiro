@@ -15,11 +15,11 @@
   </a>
  </p>
 
-## Olá, eu sou o Vinícius! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![visitors](https://komarev.com/ghpvc/?username=vnribeiro&style=flat-square&color=172F45&label=Visitors)
-- 👨‍💻 Atualmente desenvolvendo projetos pessoais.
-- 👨‍🎓 Estudante de Engenharia de Software.
-- 🎯 Interesses: HTML, CSS, JavaScript, TypeScript, Angular, C#, PostgreSQL, SQL Server, Azure, Docker, Kubernetes.
-- 📖 Oque eu estou estudando no momento? C# e Angular.
+## Hello, I'm Vinícius! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![visitors](https://komarev.com/ghpvc/?username=vnribeiro&style=flat-square&color=172F45&label=Visitors)
+- 👨‍💻 Currently developing personal projects.
+- 👨‍🎓 Software Engineering student.
+- 🎯 Interests: HTML, CSS, JavaScript, TypeScript, Angular, C#, PostgreSQL, SQL Server, Azure, Docker, Kubernetes.
+- 📖 What am I studying right now? C# and Angular.
 
 ## Skills <img width="30px" alt="Skills" src="https://img.icons8.com/external-itim2101-blue-itim2101/64/000000/external-skills-business-recruitment-itim2101-blue-itim2101-2.png"/>
 <p align="center">
