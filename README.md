@@ -18,7 +18,7 @@
 ## Hello, I'm Vinícius! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![visitors](https://komarev.com/ghpvc/?username=vnribeiro&style=flat-square&color=172F45&label=Visitors)
 - 👨‍💻 Currently developing personal projects.
 - 👨‍🎓 Software Engineering student.
-- 🎯 Interests: HTML, CSS, JavaScript, TypeScript, Angular, C#, PostgreSQL, SQL Server, Azure, Docker, Kubernetes.
+- 🎯 Interests: HTML, CSS, JavaScript, TypeScript, Angular, C#, PostgreSQL, SQL Server, RabbitMQ, Docker, Kubernetes, Azure.
 - 📖 What am I studying right now? C# and Angular.
 
 ## Skills <img width="30px" alt="Skills" src="https://img.icons8.com/external-itim2101-blue-itim2101/64/000000/external-skills-business-recruitment-itim2101-blue-itim2101-2.png"/>
