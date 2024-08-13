@@ -3,7 +3,7 @@
     <img
       align="center"
       height="200"
-      src="https://github-readme-stats.vercel.app/api?username=vnribeiro&show_icons=true&include_all_commits=true&custom_title=Github%20Status&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=vnribeiro&show_icons=true&custom_title=Github%20Status&theme=tokyonight"
     />
   </a>
   <a href="https://github.com/vnribeiro">
