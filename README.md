@@ -1,59 +1,62 @@
- <p align="center">
-  <a href="https://github.com/vnribeiro">
-    <img
-      align="center"
-      height="200"
-      src="https://github-readme-stats.vercel.app/api?username=vnribeiro&show_icons=true&custom_title=Github%20Status&theme=tokyonight"
-    />
-  </a>
-  <a href="https://github.com/vnribeiro">
-    <img
-      align="center"
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnribeiro&langs_count=8&theme=tokyonight"
-    />
-  </a>
- </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vnribeiro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&locale=en&" height="170" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vnribeiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&" height="170" alt="languages graph"  />
+</div>
 
-## Hello, I'm Vinícius! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![visitors](https://komarev.com/ghpvc/?username=vnribeiro&style=flat-square&color=172F45&label=Visitors)
+### Hi 👋! My name is Vinícius Ribeiro and I'm a .NET Developer  &nbsp;&nbsp;&nbsp; ![visitors](https://komarev.com/ghpvc/?username=vnribeiro&style=flat-square&color=325e8c&label=Visitors)
 - 👨‍💻 Currently developing personal projects.
 - 👨‍🎓 Software Engineering student.
-- 🎯 Interests: HTML, CSS, JavaScript, TypeScript, Angular, C#, PostgreSQL, SQL Server, RabbitMQ, Docker, Kubernetes, Azure.
+- 🎯 Interests: HTML, CSS, JavaScript, TypeScript, Angular, C#, SQL Server, MongoDB, RabbitMQ, Docker, Kubernetes, Azure.
 - 📖 What am I studying right now? C# and Angular.
 
-## Skills <img width="30px" alt="Skills" src="https://img.icons8.com/external-itim2101-blue-itim2101/64/000000/external-skills-business-recruitment-itim2101-blue-itim2101-2.png"/>
-<p align="center">
-    <img title="HTML5" alt="HTML5 icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img title="CSS3" alt="CSS3 icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img title="JavaScript" alt="JavaScript icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img title="TypeScript" alt="TypeScript icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img title="Angular" alt="Angular icon" height="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img title="C#" alt="CSharp icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img title="SQL Server" alt="SQL Server icon" height="40" src="https://cdn.cdnlogo.com/logos/m/21/microsoft-sql-server.svg"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img title="Docker" alt="Docker icon" height="40" src="https://cdn.cdnlogo.com/logos/d/56/docker.svg"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img title="Git" alt="Git icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-</p>
+###
 
- ## Contacts :iphone:
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFuNjUwOGV1MGlnYjVlNm5vb2VjenBtMjFocDQzdzBtY2pkY3V6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Buq5DyBD3PQt7kol5c/giphy.gif"  />
 
-<p align="center">
-    <a href="https://www.instagram.com/ribeirovn_">
-      <img title="Instagram Vinícius Ribeiro" style="max-width: 100%;" alt="Instagram Badge" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
-    <a href="mailto:contact.vnribeiro@gmail.com">
-     <img title="Gmail Vinícius Ribeiro" style="max-width: 100%;" alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
-    <a href="https://www.linkedin.com/in/vnribeirolink" target="_blank">
-     <img title="Linkedin Vinícius Ribeiro" style="max-width: 100%;" alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-</p>
+###
 
-  
- 
+<div align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="angular logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" height="30" alt="sql-server logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="30" alt="rabbitmq logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+</div>
 
+###
+
+<div align="left">
+ <a href="https://www.instagram.com/ribeirovn_">
+ <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" target="_blank"/></a>
+ <a href="mailto:contact.vnribeiro@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" target="_blank"/></a>
+ <a href="https://www.linkedin.com/in/vnribeirolink">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" target="_blank"/></a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
