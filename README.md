@@ -7,7 +7,7 @@
 - 👨‍💻 Currently developing personal projects.
 - 👨‍🎓 Software Engineering student.
 - 🎯 Interests: HTML, CSS, JavaScript, TypeScript, Angular, C#, SQL Server, MongoDB, RabbitMQ, Docker, Kubernetes, Azure.
-- 📖 What am I studying right now? C# and Angular.
+- 📖 What am I studying right now? C#, Angular and RabbitMQ.
 
 ###
 
