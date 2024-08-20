@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vnribeiro&locale=en&hide_title=false&card_width=320&langs_count=8&theme=github_dark" height="200" alt="languages graph"  />
 </div>
 
-### Hi 👋! My name is Vinícius Ribeiro and I'm a .NET Developer  &nbsp;&nbsp;&nbsp; ![visitors](https://komarev.com/ghpvc/?username=vnribeiro&style=flat-square&color=1e3799&label=Visitors)
+### Hi 👋! My name is Vinícius Ribeiro and I'm a .NET Developer  &nbsp;&nbsp;&nbsp; ![visitors](https://komarev.com/ghpvc/?username=vnribeiro&style=flat-square&color=3c6382&label=Visitors)
 - 👨‍💻 Currently developing personal projects.
 - 👨‍🎓 Software Engineering student.
 - 🎯 Interests: HTML, CSS, JavaScript, TypeScript, Angular, C#, SQL Server, MongoDB, RabbitMQ, Docker, Kubernetes, Azure.
