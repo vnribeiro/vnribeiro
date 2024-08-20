@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vnribeiro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&locale=en&" height="170" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vnribeiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vnribeiro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&locale=en" height="200" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vnribeiro&locale=en&hide_title=false&card_width=320&langs_count=8&theme=github_dark" height="200" alt="languages graph"  />
 </div>
 
-### Hi 👋! My name is Vinícius Ribeiro and I'm a .NET Developer  &nbsp;&nbsp;&nbsp; ![visitors](https://komarev.com/ghpvc/?username=vnribeiro&style=flat-square&color=325e8c&label=Visitors)
+### Hi 👋! My name is Vinícius Ribeiro and I'm a .NET Developer  &nbsp;&nbsp;&nbsp; ![visitors](https://komarev.com/ghpvc/?username=vnribeiro&style=flat-square&color=1e3799&label=Visitors)
 - 👨‍💻 Currently developing personal projects.
 - 👨‍🎓 Software Engineering student.
 - 🎯 Interests: HTML, CSS, JavaScript, TypeScript, Angular, C#, SQL Server, MongoDB, RabbitMQ, Docker, Kubernetes, Azure.
@@ -45,8 +45,8 @@
 ###
 
 <div align="left">
- <a href="https://www.instagram.com/ribeirovn_" target="_blank">aa</a> 
- <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+ <a href="https://www.instagram.com/ribeirovn_" target="_blank">
+   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a> 
  <a href="mailto:contact.vnribeiro@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
  <a href="https://www.linkedin.com/in/vnribeirolink" target="_blank">
