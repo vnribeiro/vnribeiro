@@ -5,7 +5,7 @@
 
 ### Hi 👋! My name is Vinícius Ribeiro and I'm a .NET Developer  &nbsp;&nbsp;&nbsp; ![visitors](https://komarev.com/ghpvc/?username=vnribeiro&style=flat-square&color=3c6382&label=Visitors)
 - 👨‍💻 Currently developing personal projects.
-- 👨‍🎓 Software Engineering student.
+- 👨‍🎓 Pursuing a degree in Software Engineering.
 - 🎯 Interests: HTML, CSS, JavaScript, TypeScript, Angular, C#, SQL Server, MongoDB, RabbitMQ, Docker, Kubernetes, Azure.
 - 📖 What am I studying right now? C#, Angular and RabbitMQ.
 
