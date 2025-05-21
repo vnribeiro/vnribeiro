@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="230" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFuNjUwOGV1MGlnYjVlNm5vb2VjenBtMjFocDQzdzBtY2pkY3V6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Buq5DyBD3PQt7kol5c/giphy.gif"  />
+<img align="right" height="230" src="https://giphy.com/gifs/dev-work-vnribeiro-Buq5DyBD3PQt7kol5c"  />
 
 ###
 
