@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github-stats-delta-nine.vercel.app/api?username=vnribeiro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&locale=en" height="200" alt="stats graph"/>
-  <img src="https://github-stats-delta-nine.vercel.app/api/top-langs?username=vnribeiro&locale=en&hide_title=false&card_width=500&langs_count=8&theme=github_dark" height="195" alt="languages graph"  />
+  <img src="https://github-stats-delta-nine.vercel.app/api/top-langs?username=vnribeiro&locale=en&hide_title=false&card_width=500&langs_count=8&theme=github_dark" height="196" alt="languages graph"  />
 </div>
 
 ### Hi 👋! My name is Vinícius Ribeiro and I'm a .NET Developer  &nbsp;&nbsp;&nbsp; ![visitors](https://komarev.com/ghpvc/?username=vnribeiro&style=flat-square&color=3c6382&label=Visitors)
