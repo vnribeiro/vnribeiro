@@ -1,61 +1,71 @@
 <div align="center">
   <img src="https://github-stats-delta-nine.vercel.app/api?username=vnribeiro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&locale=en" height="200" alt="stats graph"/>
-  <img src="https://github-stats-delta-nine.vercel.app/api/top-langs?username=vnribeiro&locale=en&hide_title=false&card_width=500&langs_count=8&theme=github_dark" height="196" alt="languages graph"  />
+  <img src="https://github-stats-delta-nine.vercel.app/api/top-langs?username=vnribeiro&locale=en&hide_title=false&card_width=500&langs_count=8&theme=github_dark" height="195" alt="languages graph"/>
 </div>
 
-### Hi 👋! My name is Vinícius Ribeiro and I'm a .NET Developer  &nbsp;&nbsp;&nbsp; ![visitors](https://komarev.com/ghpvc/?username=vnribeiro&style=flat-square&color=3c6382&label=Visitors)
-- 👨‍💻 Currently developing personal projects.
-- 👨‍🎓 Pursuing a degree in Software Engineering.
-- 🎯 Interests: HTML, CSS, JavaScript, TypeScript, Angular, C#, SQL Server, MongoDB, RabbitMQ, Docker, Kubernetes, Azure, AWS.
-- 📖 What am I studying right now? C#, Angular and RabbitMQ.
+<br>
 
-###
-
-<img align="right" height="230" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFrNzNrbWd3MDljOHo2OWJzMm40ZHU2cjUzNjdmZWNzMGM5eW54dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Buq5DyBD3PQt7kol5c/giphy.gif"  />
-
-###
-
-<div align="left">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" title="html5" /></a>
-  <img width="12" />
-  <a href="#"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  title="css3" /></a>
-  <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" title="javascript" /></a>
-  <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" title="typescript" /></a>
-  <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="angular logo" title="angular" /></a>
-  <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" title="csharp" /></a>
-  <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" alt="sqlserver logo" title="sqlserver" /></a> 
-  <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" title="mongodb" /></a> 
-  <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" title="docker" /></a>  
-  <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="30" alt="rabbitmq logo" title="rabbitmq" /></a>
-  <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo" title="azure" /></a>
-  <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" title="git" /></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/vinicius-costa-azevedo-ribeiro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://vnribeiro.dev"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:contact.vnribeiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/ribeirovn_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=vnribeiro&style=flat-square&color=3c6382&label=Profile+Views"/>
 </div>
 
-###
+---
 
-<div align="left">
- <a href="https://www.instagram.com/ribeirovn_" target="_blank">
-   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a> 
- <a href="mailto:contact.vnribeiro@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
- <a href="https://www.linkedin.com/in/vinicius-costa-azevedo-ribeiro" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
-</div>
+<img align="right" height="230" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFrNzNrbWd3MDljOHo2OWJzMm40ZHU2cjUzNjdmZWNzMGM5eW54dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Buq5DyBD3PQt7kol5c/giphy.gif"/>
 
-###
+### About me
+
+Full Stack **.NET** Developer based in Brazil, currently pursuing a degree in **Software Engineering**.
+
+I build web applications focusing on clean architecture, scalable APIs, and modern frontend experiences with **Angular**.
+
+- Working on personal projects and open-source contributions
+- Studying **C#**, **Angular**, and **RabbitMQ**
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vnribeiro/vnribeiro/output/snake.svg" alt="Snake animation" />
+---
 
-###
+### Tech Stack
+
+<table>
+  <tr>
+    <td><b>Languages & Frameworks</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data & Messaging</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<img src="https://raw.githubusercontent.com/vnribeiro/vnribeiro/output/snake.svg" alt="Snake animation" />
